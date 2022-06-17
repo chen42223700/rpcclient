@@ -32,7 +32,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.29</version>
+            <version>1.2.83</version>
         </dependency>
 
         <!--本地代码打的包,maven仓库没有，可直接将rpcframe和rpcinterface放到lib中使用-->
